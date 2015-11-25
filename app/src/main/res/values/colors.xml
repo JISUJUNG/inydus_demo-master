@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc107</color>
+    <color name="colorPrimaryDark">#ffa000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#ead6d6</color>
+
+    <color name="BasicTextColor">#66655a</color> //textBasic 색
+    <color name="lineColor">#fbc02d</color>
+    <color name="ProfilelineColor">#d5d5d7</color>
+
+</resources>
